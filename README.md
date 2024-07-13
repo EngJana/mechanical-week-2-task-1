@@ -14,7 +14,7 @@ This project involves the creation of robot legs using Blender for the 3D modeli
 -	Scale: Modify the lengths of the leg segments along each axis.
 -	Boolean Modifier: Cut sections of the legs to create space for the motors.
 -	Bevel Modifier: Smooth the edges of the legs.
-3.	Placement: Connect each servo motor to the corresponding segments of the robot leg (hip, knee, foot) and secure it using cylindrical shapes as nails.
+3.	Placement: Connect each servo motor to the corresponding segments of the robot leg (hip, knee, foot), secure it using cylindrical shapes as nails, and connect the motors with other parts of the legs to move them.
 Python code and blender file are provided in this repository 
 
 <img width="341" alt="robotleg" src="https://github.com/user-attachments/assets/e44ea4c3-e553-4de2-a36c-4af00f783695">
